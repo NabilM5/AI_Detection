@@ -71,14 +71,14 @@ python -m pip install -r requirements.txt
 
 Run all scripts from the repository root because paths are repository-relative.
 
-## Reproduce the Core Pipeline
-
 ## Colab EDA Notebooks
 
-- [Dataset and linguistic EDA](notebooks/01_dataset_linguistic_eda_colab.ipynb)
-- [GPU embedding EDA](notebooks/02_gpu_embedding_eda_colab.ipynb)
+- Dataset and linguistic EDA: [view in GitHub](notebooks/01_dataset_linguistic_eda_colab.ipynb) or [open in Google Colab](https://colab.research.google.com/drive/1KUIInINtv2bQ0VJQsO1FF30B4vamM5Uc?usp=sharing)
+- GPU embedding EDA: [view in GitHub](notebooks/02_gpu_embedding_eda_colab.ipynb) or [open in Google Colab](https://colab.research.google.com/drive/1n6bVEHiFdihcbn-PxVJpp0CtJ7IOlKnT?usp=sharing)
 
 Both notebooks accept JSONL uploads or Google Drive paths and export their tables and figures as ZIP archives. See [notebooks/README.md](notebooks/README.md) for usage details.
+
+## Reproduce the Core Pipeline
 
 ### 1. Prepare HC3 Medicine
 
