@@ -1,0 +1,270 @@
+================================================================================
+Example 1
+Topic: Sarcoidosis
+URL: https://medlineplus.gov/sarcoidosis.html
+AI probability: 0.9155
+Word count: 817
+
+What is sarcoidosis? Sarcoidosis is a condition in which groups of cells in your immune system form small, red, and swollen (inflamed) lumps. These lumps are called granulomas. They can form in any organ in the body. But they most commonly affect the lungs and lymph nodes in the chest. Over time, sarcoidosis can cause permanent scarring of organs. What causes sarcoidosis? Your immune system creates inflammation to help defend you against germs and sickness. But in sarcoidosis, inflammation goes off track. It causes the cells in your immune system to form granulomas. Studies suggest that this inflammation might be triggered by infections and certain substances in the environment such as insecticides and mold . And your genes may affect how your immune system reacts to a trigger. Who is more likely to develop sarcoidosis? Anyone can develop sarcoidosis, but you are more likely to have it if you: Are older, especially if you are over age 55 Live or work near insecticides, mold, or other substances that may cause inflammation Have a close relative who has sarcoidosis Take certain medicines, such as some types of HIV medicines and monoclonal antibodies Are of African or Scandinavian descent Are female What are the symptoms of sarcoidosis? Many people who have sarcoidosis have no symptoms, or they may feel unwell but without any obvious symptoms. If you have symptoms, you may have some general symptoms. And you may have other symptoms, which will depend upon which part of the body 
+
+================================================================================
+Example 2
+Topic: Scleroderma
+URL: https://medlineplus.gov/scleroderma.html
+AI probability: 0.8817
+Word count: 779
+
+What is scleroderma? Scleroderma means "hard skin." It's the name of an autoimmune disease that causes inflammation and thickening in the skin and other areas of the body. This inflammation causes you to have areas of tight, hard skin. Scleroderma may affect just one area of your body, or it can affect many systems in your body. What are the types of scleroderma? There are two main types of scleroderma: Localized scleroderma only affects your skin and the muscles and tissues just under your skin. Systemic scleroderma, which is also called systemic sclerosis, is a more serious type. It affects many parts of your body and can damage your blood vessels and internal organs, such as your heart , lungs , and kidneys . What causes scleroderma? The exact cause of scleroderma is unknown. Researchers think that several factors may play a part in causing the disease: Your genetics. Certain genes can increase the chance that you will develop scleroderma. They may also play a role in which the type of scleroderma you have. Scleroderma is not passed from parent to child, but you are more likely to develop it if a close relative has it. Your environment. Exposure to certain things in the environment, such as viruses or chemicals, may trigger scleroderma. Immune system changes . When your immune system changes, it can trigger your cells to make too much collagen in the body. Too much collagen causes patches of tight, hard skin. Hormones . Hormonal or immune system differences between women a
+
+================================================================================
+Example 3
+Topic: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+URL: https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html
+AI probability: 0.8652
+Word count: 772
+
+What is myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a serious, long-term illness that affects many body systems. Another name for it is chronic fatigue syndrome (CFS). ME/CFS can often make you unable to do your usual activities. Sometimes you may not even be able to get out of bed. What causes myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? Researchers don't yet know what causes ME/CFS. There may be more than one potential cause. It is also possible that two or more triggers might work together to cause the illness. Researchers are studying many possible causes, including: Infections Immune system changes Physical or emotional stress Changes in the way cells in the body get their energy Genetics; the illness can sometimes run in families Who is more likely to develop myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? Anyone can get ME/CFS, but it is most common in people between 40 and 60 years old. Adult women are more likely to develop it than adult men. What are the symptoms of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? The primary, or core, symptoms of ME/CFS are: Not being able to do activities that you used to do before the illness, along with severe fatigue. The fatigue must last six months or longer, and it is not improved by rest. Post-exertional malaise (PEM), which means that your symptoms get worse after any physical or mental activity. Sleep p
+
+================================================================================
+Example 4
+Topic: Pain
+URL: https://medlineplus.gov/pain.html
+AI probability: 0.8429
+Word count: 668
+
+What is pain? Pain is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Each person feels pain differently, even if the reason for the pain is the same. Pain may be sharp or dull. It may be mild or severe. Pain may come and go, or it may be constant. You may feel pain in one area of your body, such as your back , abdomen , chest , or pelvis , or you may feel it all over. Pain can help alert you that there is a problem. If you never felt pain, you might seriously hurt yourself without knowing it, or you might not realize you have a medical problem that needs treatment. Finding out what's causing your pain will help your health care provider determine the best way to manage or treat it. What are the types of pain? Patterns and types of pain are named based on how long and how often you have pain. These include: Acute pain usually happens suddenly because of a disease, injury, or inflammation (irritation, redness, and/or swelling). This type of pain is often sharp and acts as a warning that something is wrong. It usually goes away when the cause is treated or healed, though sometimes it can turn into chronic pain . Some examples of causes of acute pain include broken bones or dental issues . Chronic pain lasts for longer than three months or the time in which you should have healed. It can affect all aspects of daily life, including your mood and relationships. Some conditions that might cause
+
+================================================================================
+Example 5
+Topic: Polio and Post-Polio Syndrome
+URL: https://medlineplus.gov/polioandpostpoliosyndrome.html
+AI probability: 0.8351
+Word count: 938
+
+What is polio? Polio, or poliomyelitis, is a disease that spreads from person to person. It is caused by the poliovirus. The virus attacks the nervous system. In serious cases, it can cause paralysis (where you can't move parts of the body). The paralysis may be lifelong and can sometimes be life-threatening. Because of vaccines, polio is rare in the United States. But polio does occur in some parts of the world, and travelers can spread the virus. How does polio spread? The poliovirus is very contagious. It spreads through contact with: The stool (poop) of person who has the infection Droplets from a sneeze or cough of someone who has the infection This contact can happen if: You get contaminated stool or droplets on your hands and then touch your mouth A child puts contaminated toys or other objects into their mouth You share food or utensils with someone who has the infection People who have the infection can spread it to others just before and up to several weeks after the symptoms appear. People who don't have symptoms can still spread the virus to others and make them sick. Who is more likely to develop polio? Polio mainly affects children under age 5. But people of any age (including adults) who are unvaccinated are at risk of developing polio. People who live in or travel to areas where there is polio are more likely to get polio. What are the symptoms of polio? Most people who get infected with poliovirus do not have any symptoms. But one out of four people who get p
+
+================================================================================
+Example 6
+Topic: Non-Drug Pain Management
+URL: https://medlineplus.gov/nondrugpainmanagement.html
+AI probability: 0.8257
+Word count: 713
+
+What is pain? Pain is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Each person feels pain differently, even if the reason for the pain is the same. Pain may be sharp or dull. It may come and go, or it may be constant. You may feel pain in one area of your body, such as your back , abdomen , chest , pelvis , or you may feel pain all over. There are two types of pain: Acute pain usually comes on suddenly, because of a disease, injury, or inflammation (irritation, redness, and/or swelling). It usually goes away when the cause is treated or healed, though sometimes it can turn into chronic pain . Chronic pain lasts for longer than three months or the time in which you should have healed. It can cause severe problems. What are pain relievers? Pain relievers are medicines that reduce or relieve pain. There are many pain medicines, each with advantages and risks. Some are over-the-counter (OTC) medicines. Others are stronger medicines, which are available by prescription. The most powerful prescription pain relievers are opioids. They are very effective, but people who take them are at risk of addiction and overdose . Because of the side effects and risks of pain relievers, you may want to try non-drug treatments first. If you need to take medicines, doing some non-drug treatments may allow you to take a lower dose. What are some non-drug treatments for pain? Many non-drug treatments can help
+
+================================================================================
+Example 7
+Topic: Ankylosing Spondylitis
+URL: https://medlineplus.gov/ankylosingspondylitis.html
+AI probability: 0.8252
+Word count: 569
+
+What is ankylosing spondylitis? Ankylosing spondylitis (AS) is a type of arthritis of the spine. It causes inflammation (swelling) between your vertebrae (the bones that make up your spine) and the joints between your spine and pelvis. AS inflammation can cause stiffness and make it difficult to move and bend. Symptoms of AS can range from mild to severe back pain. Over time, AS can fuse (grow together) your vertebrae, limiting movement and causing a hunched posture. In some people, AS can affect other joints or body parts. There is no cure for AS, but early treatment can help manage symptoms, slow down the disease, and help you lead a more productive life. Who is more likely to get ankylosing spondylitis? Ankylosing spondylitis usually starts before age 45. Early symptoms may begin between the ages of 15 and 30. Your chance of developing AS can also increase if: You're a man. AS is more common and severe in men. You have a family history. If a member of your family has AS, you're more likely to get the disease. You have other medical conditions that may increase your risk of getting AS. These include Crohn's disease , ulcerative colitis , or psoriasis . What causes ankylosing spondylitis? No one knows what causes ankylosing spondylitis, but the environment and genes likely play a role. Your genes are parts of DNA in your cells that are passed down from your parents. Certain genes may increase your risk of getting the disease, but not everyone with these genes gets AS. What a
+
+================================================================================
+Example 8
+Topic: Endocarditis
+URL: https://medlineplus.gov/endocarditis.html
+AI probability: 0.8125
+Word count: 920
+
+What is endocarditis? Endocarditis is sometimes called infective endocarditis. It's a rare but life-threatening inflammation of the lining inside your heart's chambers and valves (the endocardium). Endocarditis is usually caused by germs that get into your bloodstream and travel to your heart. Once they get inside your heart, the germs can attach to the lining or get trapped in the valves. They start to grow, causing an infection. If not treated quickly, the infection can cause damage to the heart and lead to serious health problems. What causes endocarditis? Bacterial infections cause most endocarditis. Normally, many bacteria live in your mouth, on your skin, or in other parts of the body. Sometimes the bacteria can get into your bloodstream from injuries such cuts or scrapes. Dental work and certain surgeries can also allow small amounts of bacteria to enter your bloodstream. In some cases, fungal infections cause endocarditis. The fungi, such as yeast , can live in parts of your body. Fungal infections generally happen in people who have weakened immune systems that can't stop the fungus from growing. This includes people who have HIV . Who is more likely to develop endocarditis? In general, endocarditis is rare. If you're healthy, your immune system usually destroys the germs in your bloodstream before they can cause harm. But your chance of developing endocarditis may be higher than most people if you: Have certain heart conditions. Damaged or abnormal heart tissue and 
+
+================================================================================
+Example 9
+Topic: Dementia
+URL: https://medlineplus.gov/dementia.html
+AI probability: 0.8109
+Word count: 803
+
+What is dementia? Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include: Memory Language skills Visual perception (your ability to make sense of what you see) Problem solving Trouble with everyday tasks The ability to focus and pay attention It is normal to become a bit more forgetful as you age. But dementia is not a normal part of aging. It is a serious disorder that interferes with your daily life. What are the types of dementia? The most common types of dementia are known as neurodegenerative disorders. These are diseases in which the cells of the brain stop working or die. They include: Alzheimer's disease , which is the most common form of dementia among older people. People with Alzheimer's have plaques and tangles in their brain. These are abnormal buildups of different proteins. Beta-amyloid protein clumps up and forms plaques in between your brain cells. Tau protein builds up and forms tangles inside the nerve cells of your brain. There is also a loss of connection between nerve cells in the brain. Lewy body dementia , which causes movement symptoms along with dementia. Lewy bodies are abnormal deposits of a protein in the brain. Frontotemporal disorders, which cause changes to certain parts of the brain: Changes in the frontal lobe lead to behavioral symptoms Changes in the temporal lobe lead to language and emotional disorders Vascular dementia, which involves changes to the brain's blood sup
+
+================================================================================
+Example 10
+Topic: Encephalitis
+URL: https://medlineplus.gov/encephalitis.html
+AI probability: 0.8108
+Word count: 717
+
+What is encephalitis? Encephalitis is inflammation (swelling) of the brain. It can happen when an infection or medical condition that affects the brain activates your immune system. The inflammation can cause a wide range of symptoms. In extreme cases, it can lead to brain damage, stroke , or even death. What causes encephalitis? There are different types of encephalitis, based on what the cause is. The two main types are infectious encephalitis and autoimmune encephalitis. Infectious encephalitis is usually caused by a virus . In fact, viruses are the most common cause of encephalitis. Some of the different viruses that cause it include: Herpes viruses, including herpes simplex (HSV), the Epstein-Barr virus (which causes infectious mononucleosis ) and the varicella-zoster virus (which causes chickenpox ). Viruses you can get if you are bitten by an infected tick , such as tick-borne encephalitis (TBE virus) and Powassan virus. Viruses you can get if you are bitten by an infected mosquito , such as eastern equine encephalitis virus, West Nile virus , and La Crosse virus. Enteroviruses, which are a common group of viruses that mostly cause mild illness or respiratory infection. These infections usually happen in the summer and fall. Bacteria , fungi , and parasites can also cause infectious encephalitis. But this is not common. Autoimmune encephalitis happens when your immune system mistakenly attacks healthy brain cells. It can be triggered by conditions such as certain cance
+
+================================================================================
+Example 11
+Topic: Sepsis
+URL: https://medlineplus.gov/sepsis.html
+AI probability: 0.8097
+Word count: 497
+
+What is sepsis? Sepsis is your body's overactive and extreme response to an infection . Sepsis is a life-threatening medical emergency. Without quick treatment, it can lead to tissue damage, organ failure, and even death. What causes sepsis? Sepsis happens when an infection you already have triggers a chain reaction throughout your body. Bacterial infections are the most common cause, but other types of infections can also cause it. The infections are often in the lungs, stomach, kidneys, or bladder. It's possible for sepsis to begin with a small cut that gets infected or with an infection that develops after surgery. Sometimes, sepsis can occur in people who didn't even know that they had an infection. Who is more likely to develop sepsis? Anyone with an infection could get sepsis. But certain people are more likely to develop it: Adults 65 or older People with chronic (long-lasting) conditions, such as diabetes , lung disease , cancer , and kidney disease People with weakened immune systems Pregnant women Children younger than one What are the symptoms of sepsis? Sepsis can cause one or more of these symptoms: Rapid breathing and heart rate Shortness of breath Confusion or disorientation Extreme pain or discomfort Fever , shivering, or feeling very cold Clammy or sweaty skin It's important to get medical care right away if you think you might have sepsis or if your infection is not getting better or is getting worse. What other problems can sepsis cause? Severe cases of sep
+
+================================================================================
+Example 12
+Topic: Juvenile Arthritis
+URL: https://medlineplus.gov/juvenilearthritis.html
+AI probability: 0.8071
+Word count: 381
+
+What is juvenile arthritis? Juvenile arthritis (JA) is arthritis that happens in children. It causes joint inflammation (swelling), pain, stiffness, and loss of motion. Joints are places where two bones meet, such as your elbow or knee. It can affect any joint, but it is more common in the knees, hands, and feet. JA can affect your child's growth and development, and in some cases, it can also affect other organs. Finding JA early and starting treatment can help manage symptoms and reduce joint damage. Who is more likely to get juvenile arthritis? There are several other forms of arthritis affecting children. The most common type of JA in children under age 16 is juvenile idiopathic arthritis (JIA). There are multiple types of JIA. Symptoms and the number of joints affected help determine the type. Some types of JIA are more common in girls. What causes juvenile arthritis? The exact cause of JA is unknown. Most types are autoimmune disorders . This means that your immune system, which normally helps your body fight infection, attacks your body's tissues. What are the symptoms of juvenile arthritis? Symptoms can vary depending on the type of JA. The symptoms of most types include joint pain, swelling, warmth, and stiffness. Your child may not complain of pain or stiffness, but one early sign of JA may be limping or clumsiness in the morning or after resting. Larger joints, such as the knee, may be swollen. Certain types of JA can cause a high fever , swollen lymph nodes, a ras
+
+================================================================================
+Example 13
+Topic: Traumatic Brain Injury
+URL: https://medlineplus.gov/traumaticbraininjury.html
+AI probability: 0.8019
+Word count: 1076
+
+What is traumatic brain injury (TBI)? Traumatic brain injury (TBI) is a sudden injury that causes damage to the brain. It may happen when there is a blow, bump, or jolt to the head. This is a closed head injury. A TBI can also happen when an object penetrates the skull. This is a penetrating injury. Symptoms of a TBI can be mild, moderate, or severe. Concussions are a type of mild TBI. The effects of a concussion can sometimes be serious, but most people completely recover in time. More severe TBI can lead to serious physical and psychological symptoms, coma , and even death. What causes traumatic brain injury (TBI)? The main causes of TBI depend on the type of head injury : Some of the common causes of a closed head injury include Falls . This is the most common cause in adults age 65 and older. Motor vehicle crashes. This is the most common cause in young adults. Sports injuries Being struck by an object Child abuse . This is the most common cause in children under age 4. Blast injuries due to explosions Some of the common causes of a penetrating injury include Being hit by a bullet or shrapnel Being hit by a weapon such as a hammer, knife, or baseball bat A head injury that causes a bone fragment to penetrate the skull Some accidents such as explosions, natural disasters, or other extreme events can cause both closed and penetrating TBI in the same person. Who is at risk for traumatic brain injury (TBI)? Certain groups are at higher risk of TBI: Men are more likely to get 
+
+================================================================================
+Example 14
+Topic: Coping with Chronic Illness
+URL: https://medlineplus.gov/copingwithchronicillness.html
+AI probability: 0.7958
+Word count: 163
+
+Having a long-term, or chronic, illness can disrupt your life in many ways. You may often be tired and in pain . Your illness might affect your appearance or your physical abilities and independence. You may not be able to work, causing financial problems. For children, chronic illnesses can be frightening, because they may not understand why this is happening to them. These changes can cause stress, anxiety, and anger. If they do, it is important to seek help. A trained counselor can help you develop strategies to regain a feeling of control. Support groups might help, too. You will find that you are not alone, and you may learn some new tips on how to cope. You may be able to manage your illness better if you learn more about it. It is important to evaluate the information that you find, to make sure that it is reliable. It is also important to find a health care provider that you can trust.
+
+================================================================================
+Example 15
+Topic: Premenstrual Syndrome
+URL: https://medlineplus.gov/premenstrualsyndrome.html
+AI probability: 0.7913
+Word count: 548
+
+What is premenstrual syndrome (PMS)? Premenstrual syndrome, or PMS, is a group of physical and emotional symptoms that start one to two weeks before your period . Most women have at least some symptoms of PMS, and the symptoms go away after their periods start. The symptoms may range from mild to severe. What is premenstrual dysphoric disorder (PMDD)? Premenstrual dysphoric disorder (PMDD) is a severe type of PMS. With PMDD, the symptoms are severe enough to interfere with your life. PMDD much less common than PMS. What causes premenstrual syndrome (PMS)? Researchers don't know exactly what causes PMS. Changes in hormone levels during the menstrual cycle may play a role. These changing hormone levels may affect some women more than others. What are the symptoms of premenstrual syndrome (PMS)? PMS symptoms are different for everyone. You may get physical symptoms, emotional symptoms, or both. Your symptoms may also change throughout your life. Physical symptoms may include: Breast swelling and tenderness Acne Bloating and weight gain Headache Joint pain Backache Constipation or diarrhea Food cravings Emotional symptoms may include: Irritability Mood swings Crying spells Depression Anxiety Sleeping too much or too little Trouble with concentration and memory Less interest in sex How is premenstrual syndrome (PMS) diagnosed? You may wish to see your health care provider if your symptoms bother you or affect your daily life. There is no single test for PMS. Your provider will tal
+
+================================================================================
+Example 16
+Topic: Developmental Disabilities
+URL: https://medlineplus.gov/developmentaldisabilities.html
+AI probability: 0.7911
+Word count: 357
+
+What are developmental disabilities? Developmental disabilities are conditions that are usually present at birth. They can affect a child's growth and development. These conditions can cause physical, learning, language, or behavior issues. They can include: Learning disabilities . These conditions affect the ability to learn. Autism spectrum disorder (ASD). This is a disorder that affects behavior, communication, and social skills. Cerebral palsy (CP). This is a condition that affects movement, coordination, and balance. Physical disabilities. These could include blindness or deafness . Conditions that can affect both physical and mental abilities. This could include Down syndrome . These conditions can cause lifelong challenges in learning. Completing daily tasks may be difficult. Early treatment may help your child learn important skills and make the most of their strengths. What causes developmental disabilities? Developmental disabilities are often present at birth. They can occur due to various reasons. These can include: Genetic or chromosome abnormalities. These cause conditions such as Down syndrome, Fragile-X-Syndrome , and Rett syndrome . Use of substances while pregnant. For example, drinking alcohol when pregnant can cause fetal alcohol spectrum disorders . Certain infections during pregnancy . Preterm birth or low birth weight . How are developmental disabilities diagnosed? The way a developmental disability is diagnosed depends on the condition. Screening tests
+
+================================================================================
+Example 17
+Topic: Benefits of Exercise
+URL: https://medlineplus.gov/benefitsofexercise.html
+AI probability: 0.7887
+Word count: 961
+
+We have heard it many times before -- regular exercise is good for you, and it can help you manage your weight . But if you are like many people, you are busy, you sit most of the day at your job, and you haven't yet changed your exercise habits . The good news is that it's never too late to start. You can start slowly and find ways to fit more physical activity into your life. To get the most benefit, you should try to get the recommended amount of physical activity for your age. If you can do that, the payoff is that you will feel better, may help prevent or control many diseases, and will likely even live longer. What are the health benefits of exercise? Regular exercise and physical activity may: Help you get to and stay at a healthy weight. Along with diet, exercise plays an important role in maintaining a healthy weight and preventing obesity . If you are at a healthy weight, you can maintain it if the calories you eat and drink are equal to the amount of energy you burn. To lose weight, you need to use more calories than you eat and drink. Reduce your risk of heart diseases . Exercise strengthens your heart and improves your circulation. The increased blood flow raises the oxygen levels in your body. This helps lower your risk of heart diseases such as coronary artery disease and heart attack . Regular exercise can also lower high blood pressure , cholesterol , and triglyceride levels, all of which are risk factors for heart disease. Help your body manage blood glucose
+
+================================================================================
+Example 18
+Topic: Staphylococcal Infections
+URL: https://medlineplus.gov/staphylococcalinfections.html
+AI probability: 0.7810
+Word count: 755
+
+What are Staphylococcal (staph) infections? Staphylococcus (staph) is a group of bacteria. There are more than 30 types. A type called Staphylococcus aureus causes most infections. Staph bacteria can cause many different types of infections, including: Skin infections , which are the most common types of staph infections. Bacteremia, an infection of the bloodstream. This can lead to sepsis , a very serious immune response to infection. Bone infections . Endocarditis , an infection of the inner lining of the heart chambers and valves. Food poisoning . Pneumonia . Toxic shock syndrome (TSS), a life-threatening condition caused by toxins from certain types of bacteria. What causes staph infections? Some people carry staph bacteria on their skin or in their noses, but they do not get an infection. But if they get a cut or wound, the bacteria can enter the body and cause an infection. Staph bacteria can spread from person to person. They can also spread on objects, such as towels, clothing, door handles, athletic equipment, and remotes. If you have staph and do not handle food properly when you are preparing it, you can also spread staph to others. Who is more likely to get a staph infection? Anyone can develop a staph infection, but certain people are more likely to get one, including those who: Have a chronic condition such as diabetes , cancer, vascular disease , eczema , and lung disease Have a weakened immune system, such as from HIV , medicines to prevent organ rejection, or
+
+================================================================================
+Example 19
+Topic: Atrial Fibrillation
+URL: https://medlineplus.gov/atrialfibrillation.html
+AI probability: 0.7743
+Word count: 933
+
+What is atrial fibrillation (AFib)? Atrial fibrillation, also known as AFib or AF, is one of the most common types of arrhythmias . Arrhythmias are problems with the rate or rhythm of your heartbeat. They can cause your heart to beat too slowly, too fast, or in an irregular way. If you have AFib, your heart beats irregularly and sometimes much faster than normal. Also, your heart's upper and lower chambers do not work together as they should. When this happens, the lower chambers do not fill completely or pump enough blood to your lungs and body. This can cause symptoms such as dizziness , fatigue , and a pounding heartbeat. AFib may happen in brief episodes, or it may be a permanent condition. It's very important to treat it, since AFib can put you at risk for stroke and other heart conditions . What causes atrial fibrillation (AFib)? AFib is most often caused by changes to the heart's tissue or the electrical signaling that helps the heartbeat. These changes can happen due to different conditions and factors, such as high blood pressure , coronary artery disease , congenital heart defects , infections, and aging. Sometimes the cause is unknown. Who is more likely to develop atrial fibrillation (AFib)? Anyone can develop AFib, but there are certain things that raise your risk for it: Aging. The risk of atrial fibrillation increases as you get older, especially when you are over age 65. Family history and genetics. AFib can run in families. So can heart disease, which raises 
+
+================================================================================
+Example 20
+Topic: Hidradenitis Suppurativa
+URL: https://medlineplus.gov/hidradenitissuppurativa.html
+AI probability: 0.7721
+Word count: 576
+
+What is hidradenitis suppurativa (HS)? Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing abscesses that drain fluid and pus. As the abscesses heal, they can cause scarring of the skin. What causes hidradenitis suppurativa (HS)? The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by changes in certain genes . HS is not caused by bad hygiene, and it cannot be spread to others. Who is more likely to get hidradenitis suppurativa (HS)? HS usually starts after puberty, usually in the teens or twenties. It is more common in: Women People who are Black People with a family history of HS People who are overweight or have obesity People who smoke What are the symptoms of hidradenitis suppurativa (HS)? The symptoms of HS include: Small pitted areas of skin containing blackheads Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor. The abscesses heal very slowly, recur over time, and can lead to scarring and tu
+
+================================================================================
+Example 21
+Topic: Tremor
+URL: https://medlineplus.gov/tremor.html
+AI probability: 0.7635
+Word count: 782
+
+What is a tremor? A tremor is a neurological condition that includes shaking or trembling movements in one or more parts of your body. It most often affects the hands. But it can also affect the arms, legs, head, vocal cords, and torso (trunk). A tremor is involuntary, meaning that you cannot control it. It happens because of muscle contractions. A tremor may come and go, or it may be constant. It can happen on its own or be caused by another disorder. It is not life threatening, but it may cause challenges. It can make it hard to do daily life tasks such as writing, typing, eating, and dressing. In some cases, a tremor can even lead to disabilities . What are the types of tremor? There are several types of tremor, including: Essential tremor , sometimes called benign essential tremor or familial tremor. This is the most common type. It usually affects both your hands and arms while you are moving them. It can also affect your head, voice, or legs. Parkinsonian tremor , which is a common symptom in people who have Parkinson's disease . It usually affects one or both hands when they are at rest, but it can affect the chin, lips, face, and legs. Dystonic tremor , which happens in people who have dystonia . Dystonia is a movement disorder in which you have involuntary muscle contractions. The contractions cause you to have twisting and repetitive movements. It can affect any muscle in the body. What causes tremor? Generally, tremor is caused by a problem in the deep parts of the
+
+================================================================================
+Example 22
+Topic: Eating Disorders
+URL: https://medlineplus.gov/eatingdisorders.html
+AI probability: 0.7624
+Word count: 1001
+
+What are eating disorders? Eating disorders are serious mental health disorders. They involve severe problems with your thoughts about food and your eating behaviors. You may eat much less or much more than you need. Eating disorders are medical conditions; they are not a lifestyle choice. They affect your body's ability to get proper nutrition. This can lead to health issues, such as heart and kidney problems, or sometimes even death. But there are treatments that can help. What are the types of eating disorders? Common types of eating disorders include: Binge-eating , which is out-of-control eating. People with binge-eating disorder keep eating even after they are full. They often eat until they feel very uncomfortable. Afterward, they usually have feelings of guilt, shame, and distress. Eating too much too often can lead to weight gain and obesity . Binge-eating disorder is the most common eating disorder in the U.S. Bulimia nervosa. People with bulimia nervosa also have periods of binge-eating. But afterwards, they purge, by making themselves throw up or using laxatives. They may also over-exercise or fast. People with bulimia nervosa may be slightly underweight, normal weight, or overweight. Anorexia nervosa. People with anorexia nervosa avoid food, severely restrict food, or eat very small quantities of only certain foods. They may see themselves as overweight, even when they are dangerously underweight. Anorexia nervosa is the least common of the three eating disorders
+
+================================================================================
+Example 23
+Topic: Disabilities
+URL: https://medlineplus.gov/disabilities.html
+AI probability: 0.7623
+Word count: 613
+
+What are disabilities? A disability is any condition of your body or mind that makes it more difficult for you to do one or more major life activities and interact with the world around you. There are many types of disabilities, such as those that can affect your: Vision Hearing Movement Thinking Remembering Learning Communicating Development Mental health Social relationships More than 1 in 4 adults in the United States have some type of disability. Even though they all have disabilities, they can have a wide range of needs. For example, even people who have same type of disability can be affected in very different ways. Also, some disabilities are "visible" (easy to see), for example when someone is in a wheelchair. But other disabilities are "invisible" (hidden or not easy to see), such as problems with hearing, thinking, or learning. What causes disabilities? Disabilities can have different causes. Some disabilities are present at birth, while others may happen later in life. Causes of disabilities that are present at birth can include: Disorders in single genes , such as Duchenne muscular dystrophy Disorders of chromosomes, such as Down syndrome Exposures (before birth) to infections or substances , such as drugs, alcohol, or cigarettes Causes of disabilities that happen later in life can include: Injuries, such as spinal cord injuries , traumatic brain injuries (TBIs), and back injuries Chronic (long-lasting) diseases, such as diabetes , heart disease , kidney disease ,
+
+================================================================================
+Example 24
+Topic: Myasthenia Gravis
+URL: https://medlineplus.gov/myastheniagravis.html
+AI probability: 0.7607
+Word count: 783
+
+What is myasthenia gravis? Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for: Eye and eyelid movement Facial expressions Chewing Talking Swallowing Breathing Moving your arms and legs You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest. Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases , your immune system attacks the healthy cells of your organs and tissues by mistake. What causes myasthenia gravis? Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control. Normally, this is how the signals work: The signals travel down a nerve that controls movement in the muscle The nerve endings release a substance called acetylcholine Acetylcholine binds to the muscle tissue at the nerve-muscle junction This causes the muscle to contract (move) But in someone with myasthenia gravis, the body's own immune system makes antibodies that block the binding of acetylcholine to the muscle. This makes the muscles weaker. The thymus gland, which is part of your immune system, may play a role in myasthenia gravis. Normally, your thymus gland is active and growing when you are a child. It mak
+
+================================================================================
+Example 25
+Topic: Cerebral Palsy
+URL: https://medlineplus.gov/cerebralpalsy.html
+AI probability: 0.7569
+Word count: 877
+
+What is cerebral palsy (CP)? Cerebral palsy (CP) is a group of neurologic disorders that cause problems with movement , balance , and posture. The first part of the name, cerebral, means having to do with the brain. The second part, palsy, means weakness or problems with using the muscles. CP can range from mild to severe. The brain damage and the disabilities it causes are permanent. But treatments can improve the lives of people who have the condition. For example, treatments can help to improve their motor skills and ability to communicate. What are the types of cerebral palsy (CP)? There are different types of CP: Spastic cerebral palsy , which is the most common type. It causes increased muscle tone, stiff muscles, and awkward movements. Sometimes it only affects one part of the body. In other cases, it can affect both arms and legs, the trunk, and the face. Dyskinetic cerebral palsy , which causes problems controlling the movement of the hands, arms, feet, and legs. This can make it hard to sit and walk. Ataxic cerebral palsy , which causes problems with balance and coordination. Mixed cerebral palsy , which means that you have symptoms of more than one type. What causes cerebral palsy (CP)? CP is caused by abnormal development or damage to the developing brain. When this development or damage happens before birth, it is called congenital CP. Most CP is congenital, and its causes may include: Gene changes (variants) Brain malformations Infections or fevers in the pregna
+
+================================================================================
+Example 26
+Topic: Fetal Alcohol Spectrum Disorders
+URL: https://medlineplus.gov/fetalalcoholspectrumdisorders.html
+AI probability: 0.7514
+Word count: 356
+
+Alcohol can harm your baby at any stage during a pregnancy. That includes the earliest stages, before you even know you are pregnant. Drinking during pregnancy can cause a group of conditions called fetal alcohol spectrum disorders (FASDs). Children who are born with FASD can have a mix of problems, such as medical, behavioral, educational, and social problems. The kinds of problems they have depend on which type of FASD they have. The problems could include : Abnormal facial features, such as a smooth ridge between the nose and upper lip Small head size Shorter-than-average height Low body weight Poor coordination Hyperactive behavior Difficulty with attention and memory Learning disabilities and difficulty in school Speech and language delays Intellectual disability or low IQ Poor reasoning and judgment skills Sleep and sucking problems as a baby Vision or hearing problems Problems with the heart, kidneys, or bones Fetal alcohol syndrome (FAS) is the most serious type of FASD. People with fetal alcohol syndrome have facial abnormalities, including wide-set and narrow eyes, growth problems and nervous system abnormalities. Diagnosing FASD can be hard because there is no medical test, like a blood test, for it. The health care provider will make a diagnosis by looking at the child's signs and symptoms and asking whether the mother drank alcohol during pregnancy. FASDs last a lifetime. There is no cure for FASDs, but treatments can help. These include medicines to help with so
+
+================================================================================
+Example 27
+Topic: Lupus
+URL: https://medlineplus.gov/lupus.html
+AI probability: 0.7486
+Word count: 981
+
+What is lupus? Lupus is a chronic (long-lasting) type of autoimmune disease .Autoimmune diseases happen when your immune system attacks healthy cells and tissues by mistake. This attack causes inflammation. It can also damage many parts of the body, including the joints, skin, kidneys, heart, lungs, and brain. There are several types of lupus: Systemic lupus erythematosus (SLE) is the most common type. It can be mild or severe and can affect many parts of the body. Cutaneous lupus affects the skin. It causes a rash or sores, usually after your skin is exposed to sunlight . The two major types of cutaneous lupus are discoid lupus and subacute cutaneous lupus. Drug-induced lupus is caused by a reaction to some medicines. The symptoms may start 3 to 6 months after starting the medicine. The symptoms usually go away when you stop taking the medicine. Neonatal lupus, which is rare, affects newborns. It is caused by certain antibodies that are passed from the pregnant parent to the baby. What causes lupus? The cause of lupus is unknown. Researchers are studying what might cause or trigger the disease, such as: Genetics Environmental factors, such as viral infections , sunlight, certain medicines, and smoking Problems with the immune system Who is more likely to get lupus? Anyone can get lupus, but women get it much more often than men. Lupus is more common in African Americans than in White people. It is also more common in people of American Indian and Asian descent. African Ameri
+
+================================================================================
+Example 28
+Topic: Complex Regional Pain Syndrome
+URL: https://medlineplus.gov/complexregionalpainsyndrome.html
+AI probability: 0.7481
+Word count: 156
+
+Complex regional pain syndrome (CRPS) is a chronic pain condition. It causes intense pain, usually in the arms, hands, legs, or feet. It may happen after an injury, either to a nerve or to tissue in the affected area. Rest and time may only make it worse. Symptoms in the affected area are: Dramatic changes in skin temperature, color, or texture Intense burning pain Extreme skin sensitivity Swelling and stiffness in affected joints Decreased ability to move the affected body part The cause of CRPS is unknown. There is no specific diagnostic test. Your doctor will diagnose CRPS based on your signs and symptoms. There is no cure. It can get worse over time, and may spread to other parts of the body. Occasionally the symptoms go away, either temporarily or for good. Treatment focuses on relieving the pain, and can include medicines, physical therapy, and nerve blocks. NIH: National Institute of Neurological Disorders and Stroke
+
+================================================================================
+Example 29
+Topic: Eosinophilic Disorders
+URL: https://medlineplus.gov/eosinophilicdisorders.html
+AI probability: 0.7467
+Word count: 126
+
+Eosinophils are a type of white blood cell. They help fight off infections and play a role in your body's immune response. They can also build up and cause inflammation. Normally your blood doesn't have a large number of eosinophils. Your body may produce more of them in response to: Allergic disorders Skin conditions Parasitic and fungal infections Autoimmune diseases Some cancers Bone marrow disorders In some conditions, the eosinophils can move outside the bloodstream and build up in organs and tissues. This can happen in many different parts of the body, including the esophagus , heart, lungs, blood, and intestines. Treatment of eosinophilic disorders can vary, depending on the cause and which part of the body is affected. Steroids are often part of the treatment.
+
+================================================================================
+Example 30
+Topic: Raynaud Phenomenon
+URL: https://medlineplus.gov/raynaudphenomenon.html
+AI probability: 0.7414
+Word count: 814
+
+What is Raynaud phenomenon? Raynaud phenomenon is a condition that affects your blood vessels (the tubes that your blood flows through). It causes your blood vessels to narrow, which decreases blood flow. This is called a Raynaud episode or "attack." The attacks usually affect your fingers and toes, causing them to become cold and numb. They may also change color, usually to white or blue. These attacks happen in response to cold temperatures or stress . Raynaud phenomenon may also be called Raynaud disease or Raynaud syndrome. What are the types of Raynaud phenomenon? There are two types of Raynaud phenomenon: Primary Raynaud phenomenon is the more common type. Its cause is unknown. Secondary Raynaud phenomenon is usually caused by another disease or problem, such as lupus or scleroderma . Other causes may be exposure to cold or certain chemicals. The type can be more serious than the primary type. What causes Raynaud phenomenon? Researchers don't know exactly why some people develop Raynaud phenomenon. But they do understand how the attacks happen. When you are exposed to cold, your body tries to slow the loss of heat and maintain its temperature. To do this, the blood vessels in the top layer of your skin constrict (narrow). This moves blood from those vessels near the surface to vessels deeper in the body. But when you have Raynaud phenomenon, the blood vessels in your hands and feet react to cold or stress by narrowing quickly. They also stay narrowed for a long time. Wh
+

@@ -1,0 +1,17 @@
+{
+  "name": "medical-ai-text-detection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Medical-domain AI-generated text detection research project and document generators.",
+  "scripts": {
+    "build:ru": "cd output && node ../scripts/generate_ai_detection_plan.js",
+    "build:en": "cd output && node ../scripts/generate_ai_detection_plan_en.js",
+    "build": "npm run build:ru && npm run build:en",
+    "pdf:ru": "soffice --headless --convert-to pdf output/AI_Detection_Project_Plan.docx --outdir output/",
+    "pdf:en": "soffice --headless --convert-to pdf output/AI_Detection_Project_Plan_EN.docx --outdir output/",
+    "pdf": "npm run pdf:ru && npm run pdf:en"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

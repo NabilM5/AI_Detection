@@ -1,0 +1,37 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# JavaScript
+node_modules/
+
+# Local datasets and trained artifacts
+data/*
+!data/README.md
+models/*
+!models/README.md
+
+# Reports, presentation, and supporting materials stored in Google Drive
+docs/*
+output/*
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS and temporary files
+.DS_Store
+*.log
+*.tmp
+~$*

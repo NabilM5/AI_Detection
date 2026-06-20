@@ -1,0 +1,15 @@
+*.docx binary
+*.jpg binary
+*.pdf binary
+*.png binary
+*.pptx binary
+*.pkl binary
+*.pt binary
+*.safetensors binary
+
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+
